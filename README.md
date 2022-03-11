@@ -94,10 +94,10 @@ Step 16: Next, complete the following steps for school district analysis using t
 -   District Summary DataFrame with NaNs for math and reading for Thomas High School 9th Grades
     ![image_name](https://github.com/raneymjohnGit/School_District_Analysis/blob/main/Resources/DistrictSummaryDFwithNaNs.png)
     
--   Per school summary 
+-   Per school summary
     ![image_name](https://github.com/raneymjohnGit/School_District_Analysis/blob/main/Resources/PerSchoolSummaryDFwithNaNs.png)
 
--   Update Per school summary for Thomas High School 
+-   Update Per school summary for Thomas High School
     ![image_name](https://github.com/raneymjohnGit/School_District_Analysis/blob/main/Resources/UpdatedPerSchoolSummaryDF_for_THS.png)
 
 -   High Performing Schools
@@ -106,7 +106,7 @@ Step 16: Next, complete the following steps for school district analysis using t
 -   Low Performing Schools
     ![image_name](https://github.com/raneymjohnGit/School_District_Analysis/blob/main/Resources/LowPerformingSchools.png)
 
--   Average Math Scores by School and Grade 
+-   Average Math Scores by School and Grade
     ![image_name](https://github.com/raneymjohnGit/School_District_Analysis/blob/main/Resources/AverageMathScorebySchoolAndGrade.png)  
 
 -   Average Reading Scores by School and Grade 
