@@ -85,41 +85,41 @@ Step 16: Next, complete the following steps for school district analysis using t
 ## School District Analysis Results
 
 - Replaced ninth-grade reading and math scores for Thomas High School with NaNs:
-![image_name](https://github.com/raneymjohnGit/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
+![image_name](https://github.com/raneymjohnGit/School_District_Analysis/blob/main/Resources/NinthGradeTHS_NaNs.png)
 
 
 - Number of students after subtracting the number of students that are in ninth grade at Thomas High School from the total student count 
   38709
 
 -   District Summary DataFrame with NaNs for math and reading for Thomas High School 9th Grades
-    ![image_name](https://github.com/raneymjohnGit/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
+    ![image_name](https://github.com/raneymjohnGit/School_District_Analysis/blob/main/Resources/DistrictSummaryDFwithNaNs.png)
     
--   Per school summary with School Type,Total Students,Total School Budget,Per Student Budget,Average Math Score,Average Reading Score,% Passing Math,% Passing Reading,% Overall Passing
-    ![image_name](https://github.com/raneymjohnGit/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
+-   Per school summary 
+    ![image_name](https://github.com/raneymjohnGit/School_District_Analysis/blob/main/Resources/PerSchoolSummaryDFwithNaNs.png)
 
 -   Update Per school summary for Thomas High School 
-    ![image_name](https://github.com/raneymjohnGit/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
+    ![image_name](https://github.com/raneymjohnGit/School_District_Analysis/blob/main/Resources/UpdatedPerSchoolSummaryDF_for_THS.png)
 
 -   High Performing Schools
-    ![image_name](https://github.com/raneymjohnGit/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
+    ![image_name](https://github.com/raneymjohnGit/School_District_Analysis/blob/main/Resources/HighPerformingSchools.png)
 
 -   Low Performing Schools
-    ![image_name](https://github.com/raneymjohnGit/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
+    ![image_name](https://github.com/raneymjohnGit/School_District_Analysis/blob/main/Resources/LowPerformingSchools.png)
 
 -   Average Math Scores by School and Grade 
-    ![image_name](https://github.com/raneymjohnGit/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)  
+    ![image_name](https://github.com/raneymjohnGit/School_District_Analysis/blob/main/Resources/AverageMathScorebySchoolAndGrade.png)  
 
 -   Average Reading Scores by School and Grade 
-    ![image_name](https://github.com/raneymjohnGit/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png) 
+    ![image_name](https://github.com/raneymjohnGit/School_District_Analysis/blob/main/Resources/AverageReadingScorebySchoolAndGrade.png) 
 
 -   Scores summary based on spending bins
-    ![image_name](https://github.com/raneymjohnGit/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png) 
+    ![image_name](https://github.com/raneymjohnGit/School_District_Analysis/blob/main/Resources/ScoresBasedOnSpendingBins.png) 
 
 -   Scores summary based on size
-    ![image_name](https://github.com/raneymjohnGit/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png) 
+    ![image_name](https://github.com/raneymjohnGit/School_District_Analysis/blob/main/Resources/ScoresBasedOnSize.png) 
 
 -   Scores summary based on type
-    ![image_name](https://github.com/raneymjohnGit/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
+    ![image_name](https://github.com/raneymjohnGit/School_District_Analysis/blob/main/Resources/ScoresBasedOnType.png)
 
 -   How is the district summary affected?
     The  averages of math, passing score of math and reading, overall passing slightly decreased when we ignored the stutdent count from Thomas High school 9th Grades.
